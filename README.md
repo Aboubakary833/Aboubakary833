@@ -1,4 +1,4 @@
-| [![Aboubakary Cissé](https://img.shields.io/badge/ABOUBAKARY-CISSÉ-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=Aboubakary833&color=orange) | ![Followers](https://img.shields.io/github/followers/Aboubakary833&color=red) | ![Stars](https://img.shields.io/github/stars/Aboubakary833?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+| [![Aboubakary Cissé](https://img.shields.io/badge/ABOUBAKARY-CISSÉ-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=Aboubakary833&color=orange) | ![Followers](https://img.shields.io/github/followers/Aboubakary833) | ![Stars](https://img.shields.io/github/stars/Aboubakary833?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
 
 
