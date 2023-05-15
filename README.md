@@ -8,8 +8,8 @@
 <b>BIOGRAPHY</b><br>
  I'm a Software Engineer from Burkina Faso.<br>
 ⚙️ I use daily: Javascript,ReactJS,PHP,Laravel<br>
-🌱 Currently learning C.<br>
-🤔 I’m looking to contribute in Open Source projects.<br>
+🌱 Currently learning C and Python.<br>
+I’m looking to contribute in Open Source projects.<br>
 📫 How to reach me:aboubakarycisse410@gmail.com,&nbsp;[Twitter](https://mobile.twitter.com/Abubakr_Cissé), [LinkedIn](https://www.linkedin.com/in/aboubakary-ciss%C3%A9-b768b81b4/)
 
 <br><br>
