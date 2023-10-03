@@ -6,7 +6,7 @@
 
 
 <b>BIOGRAPHY</b><br>
- I'm a Software Engineer from Burkina Faso.<br>
+ I'm a Software Developer from Burkina Faso.<br>
 ⚙️ I use daily: Javascript,ReactJS,PHP,Laravel<br>
 🌱 Currently building [Clean City](https://cleancitybf.com/).<br>
 I’m looking to contribute in Open Source projects.<br>
