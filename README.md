@@ -7,8 +7,8 @@
 
 <b>BIOGRAPHY</b><br>
  I'm a Software Developer from Burkina Faso.<br>
-⚙️ I use daily: Javascript,ReactJS,PHP,Laravel<br>
-🌱 Currently learning Kotlin.<br>
+⚙️ I use daily: Vanilla Javascript,ReactJS, NextJS,pure PHP,Laravel<br>
+🌱 Currently working on Domusbook new version.<br>
 I’m looking to contribute in Open Source projects.<br>
 📫 How to reach me:aboubakarycisse410@gmail.com,&nbsp;[Twitter](https://mobile.twitter.com/Abubakr_Cissé), [LinkedIn](https://www.linkedin.com/in/aboubakary-ciss%C3%A9-b768b81b4/)
 
