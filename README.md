@@ -19,5 +19,5 @@ I’m looking to contribute in Open Source projects.<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboubakary833&langs_count=5&theme=tokyonight&bgColor=dark)]()
 -->
 
-<a href="https://gitroll.io/profile/uWdS9qBEkP9Sa5lsi6dGc7MMmuSh1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uWdS9qBEkP9Sa5lsi6dGc7MMmuSh1" alt="GitRoll Profile Badge" width="400"/></a>
+<a href="https://gitroll.io/profile/uWdS9qBEkP9Sa5lsi6dGc7MMmuSh1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uWdS9qBEkP9Sa5lsi6dGc7MMmuSh1" alt="GitRoll Profile Badge" width="500"/></a>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aboubakary833&theme=light&hide_border=false)
