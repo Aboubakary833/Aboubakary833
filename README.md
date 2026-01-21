@@ -11,12 +11,8 @@
 I’m looking to contribute in Open Source projects.<br>
 📫 How to reach me:aboubakarycisse410@gmail.com,&nbsp;[Twitter](https://mobile.twitter.com/Abubakr_Cissé), [LinkedIn](https://www.linkedin.com/in/aboubakary-ciss%C3%A9-b768b81b4/)
 
-<br><br>
-
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Aboubakary833&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboubakary833&langs_count=5&theme=tokyonight&bgColor=dark)]()
 -->
-
-<a href="https://gitroll.io/profile/uWdS9qBEkP9Sa5lsi6dGc7MMmuSh1" target="_blank" style="border-radius: 10px;" ><img src="https://gitroll.io/api/badges/profiles/v1/uWdS9qBEkP9Sa5lsi6dGc7MMmuSh1" alt="GitRoll Profile Badge" width="495" style="border-radius: 10px;" /></a>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aboubakary833&theme=light&hide_border=false)
